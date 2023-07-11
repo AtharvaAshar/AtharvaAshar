@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on creating a hybrid music recommender system.<br>
+Aspiring Web Developer and Data Scientist.<br>
 
 
 ## 🌐 Socials:
