@@ -1,6 +1,6 @@
 # 💫 About Me:
 Aspiring Web Developer and Data Scientist.<br>
-****https://atharvaashar.netlify.app/****
+
 
 
 ## 🌐 Socials:
